@@ -9,12 +9,14 @@ My personal recopilation of :wrench: .files.
  - [References](#references)
 
 ## Installation
+Your first step is to clone this repository:
 
-Just execute the installation script:
-``` shell
-$ git clone git@github.com:etxahun/dotfiles.git
-$ ./install.sh
-```
+    git clone https://github.com/hamvocke/dotfiles.git ~/.dotfiles
+
+### Manual Installation
+Create symbolic links for the configurations you want to use, e.g.:
+
+    ln -s ~/.dotfiles/vim/.vimrc ~/.vimrc
 
 ## Configuration
 

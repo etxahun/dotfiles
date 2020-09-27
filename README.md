@@ -1,5 +1,5 @@
 # dotfiles
-My personal recopilation of :wrench: .files.
+My personal compilation of :wrench: .files.
 
 ## Table of Contents
  - [Installation](#installation)
